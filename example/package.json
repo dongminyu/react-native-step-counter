@@ -25,7 +25,7 @@
     "react-native-gesture-handler": "^2.9.0",
     "react-native-permissions": "^3.7.3",
     "react-native-reanimated": "3.0.2",
-    "react-native-svg": "^13.8.0"
+    "react-native-svg": "^13.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
